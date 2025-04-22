@@ -1,0 +1,34 @@
+<svg width="627.910645" height="627.910889" viewBox="0 0 627.911 627.911" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="264.061951" y1="156.977692" x2="264.061951" y2="591.477722" id="paint_linear_2207_264_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient x1="232.697678" y1="232.697754" x2="232.697678" y2="667.197754" id="paint_linear_2207_266_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient x1="221.999924" y1="313.955414" x2="221.999924" y2="748.455444" id="paint_linear_2207_268_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient x1="232.697678" y1="395.213104" x2="232.697678" y2="829.713135" id="paint_linear_2207_269_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient x1="264.061951" y1="470.933136" x2="264.061951" y2="905.433167" id="paint_linear_2207_270_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+	</defs>
+	<g opacity="0.250000">
+		<rect id="Rectangle 17" x="42.674316" y="157.331268" width="443.000000" height="443.000000" transform="rotate(-15 42.674316 157.331268)" stroke="url(#paint_linear_2207_264_0)" stroke-opacity="0.500000" stroke-width="1.000000"/>
+		<rect id="Rectangle 19" x="11.380859" y="232.880768" width="443.000000" height="443.000000" transform="rotate(-30 11.380859 232.880768)" stroke="url(#paint_linear_2207_266_0)" stroke-opacity="0.500000" stroke-width="1.000000"/>
+		<rect id="Rectangle 20" x="0.707031" y="313.955414" width="443.000000" height="443.000000" transform="rotate(-45 0.707031 313.955414)" stroke="url(#paint_linear_2207_268_0)" stroke-opacity="0.500000" stroke-width="1.000000"/>
+		<rect id="Rectangle 21" x="11.380859" y="395.030121" width="443.000000" height="443.000000" transform="rotate(-60 11.380859 395.030121)" stroke="url(#paint_linear_2207_269_0)" stroke-opacity="0.500000" stroke-width="1.000000"/>
+		<rect id="Rectangle 22" x="42.674316" y="470.579559" width="443.000000" height="443.000000" transform="rotate(-75 42.674316 470.579559)" stroke="url(#paint_linear_2207_270_0)" stroke-opacity="0.500000" stroke-width="1.000000"/>
+	</g>
+</svg>

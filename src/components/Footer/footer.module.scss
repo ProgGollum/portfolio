@@ -1,0 +1,15 @@
+.footer {
+  padding: 3.75rem 0;
+  background-color: var(--backgroung-color);
+  &__block {
+    max-width: 310px;
+    margin: 0 auto;
+  }
+
+  &__socials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+  }
+}
