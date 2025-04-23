@@ -8,6 +8,22 @@
     color: var(--primary-color);
     text-align: center;
     margin-bottom: 2.5rem;
+
+    @media (max-width: 1280px) {
+      font-size: 55px;
+    }
+
+    @media (max-width: 960px) {
+      font-size: 50px;
+    }
+
+    @media (max-width: 800px) {
+      font-size: 2.5rem;
+    }
+
+    @media (max-width: 480px) {
+      font-size: 2rem;
+    }
   }
 
   &__img {
@@ -15,6 +31,7 @@
     box-shadow: 0px 5px 35px 0px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
     margin: 0 auto 2.5rem;
+    width: 100%;
   }
 
   &__skills {
@@ -22,6 +39,10 @@
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 2rem;
+
+    @media (max-width: 800px) {
+      font-size: 1.25rem;
+    }
   }
 
   &__link {
@@ -36,5 +57,10 @@
     color: #000000;
     font-size: 18px;
     font-weight: 600;
+
+    @media (max-width: 800px) {
+      font-size: 1rem;
+      max-width: 170px;
+    }
   }
 }

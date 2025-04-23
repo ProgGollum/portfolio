@@ -1,9 +1,6 @@
-import Header from "@/components/Header/Header";
 import s from "./page.module.scss"
 import {projects} from "../projectsData/data"
-import { Button } from "@mantine/core";
-import Image from "next/image"
-import Footer from "@/components/Footer/Footer";
+import {Button} from "@mantine/core";
 import Link from "next/link";
 
 export default function Home() {
