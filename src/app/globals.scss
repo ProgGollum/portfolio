@@ -11,10 +11,6 @@
     box-sizing: border-box;
 }
 
-section, header, footer {
-    overflow: hidden;
-}
-
 /* Links */
 
 a, a:link, a:visited  {
@@ -94,6 +90,12 @@ legend {
 :root {
     --primary-color: #5C62EC;
     --backgroung-color: #171718;
+}
+
+html, body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .container {

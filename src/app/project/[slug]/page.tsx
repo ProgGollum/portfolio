@@ -18,7 +18,7 @@ const Page = () => {
                 <h1 className={s.project__title}>{project?.text}</h1>
                 <img className={s.project__img} src={project?.img} alt={project?.text} width={865} height={650}/>
                 <p className={s.project__skills}>Skills: React, Next js, TypeScript</p>
-                <Link className={s.project__link} target={"_blank"} href={"https://s.ura.news/images/news/upload/news/501/710/1052501710/7d0c5e199387e30503b9b718b49c5e80_760x0_1280.958.0.0.jpg"}>GitHub repo</Link>
+                <Link className={s.project__link} target={"_blank"} href={project!.github}><FaGithub size={"1.5rem"}/> GitHub repo</Link>
             </div>
         </main>
     );
